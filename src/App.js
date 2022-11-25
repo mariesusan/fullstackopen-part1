@@ -1,7 +1,7 @@
 
 
 const App = () => {
-  console.log("Hello from komponentti!");
+  console.log("Hello from komponentti!:)");
   return (
     <div>
       <p>Hello world</p>
